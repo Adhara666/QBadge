@@ -59,7 +59,7 @@ Edit → Settings → QBadge:
 ## Colors
 
 | Tier | Color | Swatch |
-|---|---|---|
+|:---:|:---:|:---:|
 | TOP | `#8E44AD` | ![TOP](docs/images/swatch-top.png) |
 | CAS Q1 / CUG T1 | `#C0392B` | ![Q1](docs/images/swatch-q1.png) |
 | CAS Q2 / CUG T2 | `#E67E22` | ![Q2](docs/images/swatch-q2.png) |
@@ -74,7 +74,7 @@ Edit → Settings → QBadge:
 ## Data
 
 | Data | Version | Coverage |
-|---|---|---|
+|:---:|:---:|:---:|
 | CAS Journal Ranking (中科院期刊分区表) | 2025 (final official edition) | 21,772 journals |
 | CUG journal catalog | 2023 | 9,922 journals, 38 disciplines |
 
