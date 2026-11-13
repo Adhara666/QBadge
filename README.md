@@ -101,19 +101,19 @@ To add your school, open an Issue with:
 
 ## FAQ
 
-- **The columns don't appear.**
+- **The columns don't appear.**<br>
   Right-click the item list header and enable them.
 
-- **A journal has no badges.**
+- **A journal has no badges.**<br>
   It may not be in the corresponding catalog. The university column supports Chinese journal names; the CAS table covers English journals only.
 
-- **Why is TGRS a Q2 in the CAS minor category?**
+- **Why is TGRS a Q2 in the CAS minor category?**<br>
   CAS major and minor categories use different algorithms. TGRS is Q1 Top in Geosciences (major) but Q2 in Remote Sensing (minor).
 
-- **Why does MDPI's Remote Sensing have no CUG Geography tier?**
+- **Why does MDPI's Remote Sensing have no CUG Geography tier?**<br>
   In the 2023 CUG catalog, it appears only under Surveying and Mapping, Information and Communication Engineering, Geo-information, and Safety Science — not Geography.
 
-- **Zotero says the plugin is unsigned.**
+- **Zotero says the plugin is unsigned.**<br>
   This is normal for local installation; continue the installation.
 
 ## Privacy
