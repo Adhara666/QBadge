@@ -60,46 +60,46 @@ Edit → Settings → QBadge:
 <table>
   <thead>
     <tr>
-      <th align="center" valign="middle">Tier</th>
-      <th align="center" valign="middle">Color</th>
-      <th align="center" valign="middle">Swatch</th>
+      <th align="center" valign="absmiddle">Tier</th>
+      <th align="center" valign="absmiddle">Color</th>
+      <th align="center" valign="absmiddle">Swatch</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" valign="middle">TOP</td>
-      <td align="center" valign="middle">#8E44AD</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-top.png" alt="TOP" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">TOP</td>
+      <td align="center" valign="absmiddle">#8E44AD</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-top.png" alt="TOP" width="80" height="24" align="absmiddle"></td>
     </tr>
     <tr>
-      <td align="center" valign="middle">CAS Q1 / CUG T1</td>
-      <td align="center" valign="middle">#C0392B</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q1.png" alt="Q1" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">CAS Q1 / CUG T1</td>
+      <td align="center" valign="absmiddle">#C0392B</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-q1.png" alt="Q1" width="80" height="24" align="absmiddle"></td>
     </tr>
     <tr>
-      <td align="center" valign="middle">CAS Q2 / CUG T2</td>
-      <td align="center" valign="middle">#E67E22</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q2.png" alt="Q2" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">CAS Q2 / CUG T2</td>
+      <td align="center" valign="absmiddle">#E67E22</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-q2.png" alt="Q2" width="80" height="24" align="absmiddle"></td>
     </tr>
     <tr>
-      <td align="center" valign="middle">CAS Q3 / CUG T3</td>
-      <td align="center" valign="middle">#F1C40F</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q3.png" alt="Q3" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">CAS Q3 / CUG T3</td>
+      <td align="center" valign="absmiddle">#F1C40F</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-q3.png" alt="Q3" width="80" height="24" align="absmiddle"></td>
     </tr>
     <tr>
-      <td align="center" valign="middle">CAS Q4 / CUG T4</td>
-      <td align="center" valign="middle">#7F8C8D</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q4.png" alt="Q4" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">CAS Q4 / CUG T4</td>
+      <td align="center" valign="absmiddle">#7F8C8D</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-q4.png" alt="Q4" width="80" height="24" align="absmiddle"></td>
     </tr>
     <tr>
-      <td align="center" valign="middle">CUG T5</td>
-      <td align="center" valign="middle">#2E86C1</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-t5.png" alt="T5" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">CUG T5</td>
+      <td align="center" valign="absmiddle">#2E86C1</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-t5.png" alt="T5" width="80" height="24" align="absmiddle"></td>
     </tr>
     <tr>
-      <td align="center" valign="middle">CUG T6</td>
-      <td align="center" valign="middle">#85C1E9</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-t6.png" alt="T6" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">CUG T6</td>
+      <td align="center" valign="absmiddle">#85C1E9</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-t6.png" alt="T6" width="80" height="24" align="absmiddle"></td>
     </tr>
   </tbody>
 </table>
@@ -112,21 +112,21 @@ Edit → Settings → QBadge:
 <table>
   <thead>
     <tr>
-      <th align="center" valign="middle">Data</th>
-      <th align="center" valign="middle">Version</th>
-      <th align="center" valign="middle">Coverage</th>
+      <th align="center" valign="absmiddle">Data</th>
+      <th align="center" valign="absmiddle">Version</th>
+      <th align="center" valign="absmiddle">Coverage</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" valign="middle">CAS Journal Ranking (中科院期刊分区表)</td>
-      <td align="center" valign="middle">2025 (final official edition)</td>
-      <td align="center" valign="middle">21,772 journals</td>
+      <td align="center" valign="absmiddle">CAS Journal Ranking (中科院期刊分区表)</td>
+      <td align="center" valign="absmiddle">2025 (final official edition)</td>
+      <td align="center" valign="absmiddle">21,772 journals</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">CUG journal catalog</td>
-      <td align="center" valign="middle">2023</td>
-      <td align="center" valign="middle">9,922 journals, 38 disciplines</td>
+      <td align="center" valign="absmiddle">CUG journal catalog</td>
+      <td align="center" valign="absmiddle">2023</td>
+      <td align="center" valign="absmiddle">9,922 journals, 38 disciplines</td>
     </tr>
   </tbody>
 </table>

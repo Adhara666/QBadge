@@ -60,46 +60,46 @@
 <table>
   <thead>
     <tr>
-      <th align="center" valign="middle">分区</th>
-      <th align="center" valign="middle">颜色</th>
-      <th align="center" valign="middle">色块</th>
+      <th align="center" valign="absmiddle">分区</th>
+      <th align="center" valign="absmiddle">颜色</th>
+      <th align="center" valign="absmiddle">色块</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" valign="middle">TOP</td>
-      <td align="center" valign="middle">#8E44AD</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-top.png" alt="TOP" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">TOP</td>
+      <td align="center" valign="absmiddle">#8E44AD</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-top.png" alt="TOP" width="80" height="24" align="absmiddle"></td>
     </tr>
     <tr>
-      <td align="center" valign="middle">1区 / 地大 T1</td>
-      <td align="center" valign="middle">#C0392B</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q1.png" alt="1区" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">1区 / 地大 T1</td>
+      <td align="center" valign="absmiddle">#C0392B</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-q1.png" alt="1区" width="80" height="24" align="absmiddle"></td>
     </tr>
     <tr>
-      <td align="center" valign="middle">2区 / 地大 T2</td>
-      <td align="center" valign="middle">#E67E22</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q2.png" alt="2区" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">2区 / 地大 T2</td>
+      <td align="center" valign="absmiddle">#E67E22</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-q2.png" alt="2区" width="80" height="24" align="absmiddle"></td>
     </tr>
     <tr>
-      <td align="center" valign="middle">3区 / 地大 T3</td>
-      <td align="center" valign="middle">#F1C40F</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q3.png" alt="3区" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">3区 / 地大 T3</td>
+      <td align="center" valign="absmiddle">#F1C40F</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-q3.png" alt="3区" width="80" height="24" align="absmiddle"></td>
     </tr>
     <tr>
-      <td align="center" valign="middle">4区 / 地大 T4</td>
-      <td align="center" valign="middle">#7F8C8D</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q4.png" alt="4区" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">4区 / 地大 T4</td>
+      <td align="center" valign="absmiddle">#7F8C8D</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-q4.png" alt="4区" width="80" height="24" align="absmiddle"></td>
     </tr>
     <tr>
-      <td align="center" valign="middle">地大 T5</td>
-      <td align="center" valign="middle">#2E86C1</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-t5.png" alt="T5" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">地大 T5</td>
+      <td align="center" valign="absmiddle">#2E86C1</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-t5.png" alt="T5" width="80" height="24" align="absmiddle"></td>
     </tr>
     <tr>
-      <td align="center" valign="middle">地大 T6</td>
-      <td align="center" valign="middle">#85C1E9</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-t6.png" alt="T6" width="80" height="24" align="middle"></td>
+      <td align="center" valign="absmiddle">地大 T6</td>
+      <td align="center" valign="absmiddle">#85C1E9</td>
+      <td align="center" valign="absmiddle"><img src="docs/images/swatch-t6.png" alt="T6" width="80" height="24" align="absmiddle"></td>
     </tr>
   </tbody>
 </table>
@@ -112,21 +112,21 @@
 <table>
   <thead>
     <tr>
-      <th align="center" valign="middle">数据</th>
-      <th align="center" valign="middle">版本</th>
-      <th align="center" valign="middle">覆盖</th>
+      <th align="center" valign="absmiddle">数据</th>
+      <th align="center" valign="absmiddle">版本</th>
+      <th align="center" valign="absmiddle">覆盖</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" valign="middle">中科院期刊分区表</td>
-      <td align="center" valign="middle">2025（官方终版）</td>
-      <td align="center" valign="middle">21,772 本期刊</td>
+      <td align="center" valign="absmiddle">中科院期刊分区表</td>
+      <td align="center" valign="absmiddle">2025（官方终版）</td>
+      <td align="center" valign="absmiddle">21,772 本期刊</td>
     </tr>
     <tr>
-      <td align="center" valign="middle">中国地质大学（武汉）期刊分类目录</td>
-      <td align="center" valign="middle">2023</td>
-      <td align="center" valign="middle">9,922 本期刊，38 个学科</td>
+      <td align="center" valign="absmiddle">中国地质大学（武汉）期刊分类目录</td>
+      <td align="center" valign="absmiddle">2023</td>
+      <td align="center" valign="absmiddle">9,922 本期刊，38 个学科</td>
     </tr>
   </tbody>
 </table>
