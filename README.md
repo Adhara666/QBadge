@@ -58,17 +58,15 @@ Edit → Settings → QBadge:
 
 ## Colors
 
-![QBadge colors](docs/images/colors.png)
-
-| Tier | Color |
-|---|---|
-| CAS Q1 / CUG T1 | `#C0392B` |
-| CAS Q2 / CUG T2 | `#E67E22` |
-| CAS Q3 / CUG T3 | `#F1C40F` |
-| CAS Q4 / CUG T4 | `#7F8C8D` |
-| TOP | `#8E44AD` |
-| CUG T5 | `#2E86C1` |
-| CUG T6 | `#85C1E9` |
+| Tier | Color | Swatch |
+|---|---|---|
+| TOP | `#8E44AD` | ![TOP](docs/images/swatch-top.png) |
+| CAS Q1 / CUG T1 | `#C0392B` | ![Q1](docs/images/swatch-q1.png) |
+| CAS Q2 / CUG T2 | `#E67E22` | ![Q2](docs/images/swatch-q2.png) |
+| CAS Q3 / CUG T3 | `#F1C40F` | ![Q3](docs/images/swatch-q3.png) |
+| CAS Q4 / CUG T4 | `#7F8C8D` | ![Q4](docs/images/swatch-q4.png) |
+| CUG T5 | `#2E86C1` | ![T5](docs/images/swatch-t5.png) |
+| CUG T6 | `#85C1E9` | ![T6](docs/images/swatch-t6.png) |
 
 - CAS Q1–Q4 and CUG T1–T4 share the same palette; TOP is purple.
 - CUG T5 and T6 use blue.

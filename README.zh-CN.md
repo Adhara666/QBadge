@@ -58,17 +58,15 @@
 
 ## 配色
 
-![QBadge 配色](docs/images/colors.png)
-
-| 分区 | 颜色 |
-|---|---|
-| 1区 / 地大 T1 | `#C0392B` |
-| 2区 / 地大 T2 | `#E67E22` |
-| 3区 / 地大 T3 | `#F1C40F` |
-| 4区 / 地大 T4 | `#7F8C8D` |
-| TOP | `#8E44AD` |
-| 地大 T5 | `#2E86C1` |
-| 地大 T6 | `#85C1E9` |
+| 分区 | 颜色 | 色块 |
+|---|---|---|
+| TOP | `#8E44AD` | ![TOP](docs/images/swatch-top.png) |
+| 1区 / 地大 T1 | `#C0392B` | ![1区](docs/images/swatch-q1.png) |
+| 2区 / 地大 T2 | `#E67E22` | ![2区](docs/images/swatch-q2.png) |
+| 3区 / 地大 T3 | `#F1C40F` | ![3区](docs/images/swatch-q3.png) |
+| 4区 / 地大 T4 | `#7F8C8D` | ![4区](docs/images/swatch-q4.png) |
+| 地大 T5 | `#2E86C1` | ![T5](docs/images/swatch-t5.png) |
+| 地大 T6 | `#85C1E9` | ![T6](docs/images/swatch-t6.png) |
 
 - 中科院 1–4 区与地大 T1–T4 同色；TOP 独立紫色。
 - 地大 T5、T6 使用蓝色系。
