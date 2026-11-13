@@ -68,38 +68,38 @@ Edit → Settings → QBadge:
   <tbody>
     <tr>
       <td align="center" valign="middle">TOP</td>
-      <td align="center" valign="middle"><code>#8E44AD</code></td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-top.png" alt="TOP" width="80" height="24"></td>
+      <td align="center" valign="middle">#8E44AD</td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-top.png" alt="TOP" width="80" height="24" align="middle"></td>
     </tr>
     <tr>
       <td align="center" valign="middle">CAS Q1 / CUG T1</td>
-      <td align="center" valign="middle"><code>#C0392B</code></td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q1.png" alt="Q1" width="80" height="24"></td>
+      <td align="center" valign="middle">#C0392B</td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q1.png" alt="Q1" width="80" height="24" align="middle"></td>
     </tr>
     <tr>
       <td align="center" valign="middle">CAS Q2 / CUG T2</td>
-      <td align="center" valign="middle"><code>#E67E22</code></td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q2.png" alt="Q2" width="80" height="24"></td>
+      <td align="center" valign="middle">#E67E22</td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q2.png" alt="Q2" width="80" height="24" align="middle"></td>
     </tr>
     <tr>
       <td align="center" valign="middle">CAS Q3 / CUG T3</td>
-      <td align="center" valign="middle"><code>#F1C40F</code></td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q3.png" alt="Q3" width="80" height="24"></td>
+      <td align="center" valign="middle">#F1C40F</td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q3.png" alt="Q3" width="80" height="24" align="middle"></td>
     </tr>
     <tr>
       <td align="center" valign="middle">CAS Q4 / CUG T4</td>
-      <td align="center" valign="middle"><code>#7F8C8D</code></td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q4.png" alt="Q4" width="80" height="24"></td>
+      <td align="center" valign="middle">#7F8C8D</td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q4.png" alt="Q4" width="80" height="24" align="middle"></td>
     </tr>
     <tr>
       <td align="center" valign="middle">CUG T5</td>
-      <td align="center" valign="middle"><code>#2E86C1</code></td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-t5.png" alt="T5" width="80" height="24"></td>
+      <td align="center" valign="middle">#2E86C1</td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-t5.png" alt="T5" width="80" height="24" align="middle"></td>
     </tr>
     <tr>
       <td align="center" valign="middle">CUG T6</td>
-      <td align="center" valign="middle"><code>#85C1E9</code></td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-t6.png" alt="T6" width="80" height="24"></td>
+      <td align="center" valign="middle">#85C1E9</td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-t6.png" alt="T6" width="80" height="24" align="middle"></td>
     </tr>
   </tbody>
 </table>
