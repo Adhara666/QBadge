@@ -95,7 +95,7 @@
 
 ## 兼容性
 
-- Zotero 8 / 9 / 10（兼容上限预留到 11.*）
+- Zotero 8 / 9 / 10
 - Windows / macOS / Linux
 - **不支持 Zotero 7 及更早版本**
 

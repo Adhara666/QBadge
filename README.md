@@ -95,7 +95,7 @@ To add your school, open an Issue with:
 
 ## Compatibility
 
-- Zotero 8 / 9 / 10 (compatibility cap reserved for 11.*)
+- Zotero 8 / 9 / 10
 - Windows / macOS / Linux
 - **Zotero 7 and earlier are not supported**
 
