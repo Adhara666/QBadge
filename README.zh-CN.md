@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Zotero-8%20%7C%209%20%7C%2010-CC2936" alt="Zotero 8-10">
-  <img src="https://img.shields.io/badge/version-0.3.5-blue" alt="version 0.3.5">
+  <img src="https://img.shields.io/badge/version-0.4.0-blue" alt="version 0.4.0">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey" alt="platform">
 </p>
 
