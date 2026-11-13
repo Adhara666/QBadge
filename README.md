@@ -69,37 +69,37 @@
     <tr>
       <td align="center" valign="middle">TOP</td>
       <td align="center" valign="middle">#8E44AD</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-top.png" alt="TOP" width="80" height="24" align="absmiddle"></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-top.png" alt="TOP" width="80" height="28" align="absmiddle"></td>
     </tr>
     <tr>
       <td align="center" valign="middle">1区 / 地大 T1</td>
       <td align="center" valign="middle">#C0392B</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q1.png" alt="1区" width="80" height="24" align="absmiddle"></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q1.png" alt="1区" width="80" height="28" align="absmiddle"></td>
     </tr>
     <tr>
       <td align="center" valign="middle">2区 / 地大 T2</td>
       <td align="center" valign="middle">#E67E22</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q2.png" alt="2区" width="80" height="24" align="absmiddle"></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q2.png" alt="2区" width="80" height="28" align="absmiddle"></td>
     </tr>
     <tr>
       <td align="center" valign="middle">3区 / 地大 T3</td>
       <td align="center" valign="middle">#F1C40F</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q3.png" alt="3区" width="80" height="24" align="absmiddle"></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q3.png" alt="3区" width="80" height="28" align="absmiddle"></td>
     </tr>
     <tr>
       <td align="center" valign="middle">4区 / 地大 T4</td>
       <td align="center" valign="middle">#7F8C8D</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-q4.png" alt="4区" width="80" height="24" align="absmiddle"></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q4.png" alt="4区" width="80" height="28" align="absmiddle"></td>
     </tr>
     <tr>
       <td align="center" valign="middle">地大 T5</td>
       <td align="center" valign="middle">#2E86C1</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-t5.png" alt="T5" width="80" height="24" align="absmiddle"></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-t5.png" alt="T5" width="80" height="28" align="absmiddle"></td>
     </tr>
     <tr>
       <td align="center" valign="middle">地大 T6</td>
       <td align="center" valign="middle">#85C1E9</td>
-      <td align="center" valign="middle"><img src="docs/images/swatch-t6.png" alt="T6" width="80" height="24" align="absmiddle"></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-t6.png" alt="T6" width="80" height="28" align="absmiddle"></td>
     </tr>
   </tbody>
 </table>
