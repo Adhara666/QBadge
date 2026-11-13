@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a>
+  简体中文 | <a href="README.en.md">English</a>
 </p>
 
 <p align="center">
@@ -14,126 +14,126 @@
 
 # QBadge
 
-Show CAS journal quartiles and university journal tiers directly in Zotero's item list.
+在 Zotero 条目列表中显示中科院期刊分区与高校期刊分区标签。
 
-![QBadge item list](docs/images/overview.png)
+![QBadge 条目列表](docs/images/overview.png)
 
-## Features
+## 功能
 
-- **Two independent columns**: `QBadge（中科院2025）` and `QBadge（高校分区）`
-- **CAS partition**: major category / minor categories / TOP, 1–4 quartile colors; minor categories are selectable and reorderable
-- **University partition** (currently CUG only, using CUG as the example): T1–T6 by discipline; T1–T4 use the same colors as CAS, T5/T6 use separate colors
-- **Fully offline**: data is bundled; no network, no upload, no API key
-- **Cross-platform**: Windows / macOS / Linux
+- **两列独立显示**：`QBadge（中科院2025）`、`QBadge（高校分区）`
+- **中科院分区**：大类 / 小类 / TOP，1–4 区配色；小类可选、可排序
+- **高校分区**（暂只支持地大，以地大为例）：按学科显示 T1–T6，T1–T4 沿用中科院配色，T5/T6 独立配色
+- **离线可用**：安装包内置数据，不联网、不上传、不需要 API Key
+- **跨平台**：Windows / macOS / Linux
 
-> The university column currently supports **China University of Geosciences (Wuhan)** only. Other universities are not supported yet. If you want your school's catalog added, please open an Issue with the school name and catalog file.
+> 高校分区目前仅支持 **中国地质大学（武汉）**。其他高校暂未支持；如果你希望加入自己学校的目录，欢迎在 Issues 中提出，附上学校名称和目录文件。
 
-## Installation
+## 安装
 
-1. Download the latest `.xpi`: [Releases](../../releases/latest)
-2. Zotero → Tools → Plugins → gear icon → Install Plugin From File…
-3. Select the `.xpi` and restart Zotero
-4. Right-click the item list header and enable `QBadge（中科院2025）` and `QBadge（高校分区）`
+1. 下载最新 `.xpi`：[Releases](../../releases/latest)
+2. Zotero → 工具 → 插件 → 齿轮 → Install Plugin From File…
+3. 选择 `.xpi`，重启 Zotero
+4. 在条目列表**表头右键**，勾选 `QBadge（中科院2025）` 和 `QBadge（高校分区）`
 
-> New columns are hidden by default and must be enabled once from the header context menu.
+> 新列默认隐藏，必须在表头右键里手动勾选一次。
 
-## Usage
+## 使用
 
-Edit → Settings → QBadge:
+编辑 → 设置 → QBadge：
 
-### CAS partition
+### 中科院分区
 
-- Display: major + minor / major only / minor only
-- TOP tag toggle and position
-- Major/minor tag order
-- Filter minor categories by major category
-- Multi-select and numbered reorder (↑ / ↓ / ×)
+- 显示内容：大类 + 小类 / 仅大类 / 仅小类
+- TOP 标签开关与位置
+- 大类 / 小类顺序
+- 小类按大类筛选
+- 小类多选与编号排序（↑ / ↓ / ×）
 
-### University partition
+### 高校分区
 
-- University: currently only China University of Geosciences (Wuhan)
-- Discipline multi-select (defaults: Surveying and Mapping, Geography)
-- Numbered reorder (↑ / ↓ / ×)
+- 高校：暂只支持中国地质大学（武汉）
+- 学科多选（默认测绘科学与技术、地理科学）
+- 编号排序（↑ / ↓ / ×）
 
-## Colors
+## 配色
 
-| Tier | Color | Swatch |
+| 分区 | 颜色 | 色块 |
 |:---:|:---:|:---:|
 | TOP | `#8E44AD` | ![TOP](docs/images/swatch-top.png) |
-| CAS Q1 / CUG T1 | `#C0392B` | ![Q1](docs/images/swatch-q1.png) |
-| CAS Q2 / CUG T2 | `#E67E22` | ![Q2](docs/images/swatch-q2.png) |
-| CAS Q3 / CUG T3 | `#F1C40F` | ![Q3](docs/images/swatch-q3.png) |
-| CAS Q4 / CUG T4 | `#7F8C8D` | ![Q4](docs/images/swatch-q4.png) |
-| CUG T5 | `#2E86C1` | ![T5](docs/images/swatch-t5.png) |
-| CUG T6 | `#85C1E9` | ![T6](docs/images/swatch-t6.png) |
+| 1区 / 地大 T1 | `#C0392B` | ![1区](docs/images/swatch-q1.png) |
+| 2区 / 地大 T2 | `#E67E22` | ![2区](docs/images/swatch-q2.png) |
+| 3区 / 地大 T3 | `#F1C40F` | ![3区](docs/images/swatch-q3.png) |
+| 4区 / 地大 T4 | `#7F8C8D` | ![4区](docs/images/swatch-q4.png) |
+| 地大 T5 | `#2E86C1` | ![T5](docs/images/swatch-t5.png) |
+| 地大 T6 | `#85C1E9` | ![T6](docs/images/swatch-t6.png) |
 
-- CAS Q1–Q4 and CUG T1–T4 share the same palette; TOP is purple.
-- CUG T5 and T6 use blue.
+- 中科院 1–4 区与地大 T1–T4 同色；TOP 独立紫色。
+- 地大 T5、T6 使用蓝色系。
 
-## Data
+## 数据说明
 
-| Data | Version | Coverage |
+| 数据 | 版本 | 覆盖 |
 |:---:|:---:|:---:|
-| CAS Journal Ranking (中科院期刊分区表) | 2025 (final official edition) | 21,772 journals |
-| CUG journal catalog | 2023 | 9,922 journals, 38 disciplines |
+| 中科院期刊分区表 | 2025（官方终版） | 21,772 本期刊 |
+| 中国地质大学（武汉）期刊分类目录 | 2023 | 9,922 本期刊，38 个学科 |
 
-- The CAS table stopped updating in 2026; 2025 is the final edition.
-- The CUG catalog is organized by discipline with T1–T6 levels; a journal may belong to multiple disciplines with different levels.
-- The CUG catalog has no ISSN; matching uses ISSN mapping plus English/Chinese journal names.
-- Unmatched journals are left blank (hover shows "not listed"); conference papers are not displayed.
+- 中科院分区表自 2026 年起停止更新，2025 版为最终版。
+- 地大目录按学科划分，级别为 T1–T6；一本刊可属于多个学科，不同学科级别可能不同。
+- 地大数据无 ISSN，匹配按「ISSN 映射 + 中英文刊名」。
+- 未匹配到的期刊显示空白（悬浮可见「未收录」提示）；会议论文不显示。
 
-## More universities
+## 支持更多高校
 
-The university column currently bundles only the 2023 CUG catalog. Other schools are not supported yet.
+高校分区目前只内置中国地质大学（武汉）2023 目录，其他学校暂未支持。
 
-To add your school, open an Issue with:
+如需加入你的学校，请在 Issues 中提供：
 
-- School name
-- Catalog name and version year
-- Catalog file (Excel / PDF)
-- Discipline and level definitions (e.g. T1–T5, A/B/C)
+- 学校名称
+- 目录名称与版本年份
+- 目录文件（Excel / PDF 均可）
+- 目录的学科划分和级别说明（如 T1–T5、A/B/C）
 
-## Compatibility
+## 兼容性
 
 - Zotero 8 / 9 / 10
 - Windows / macOS / Linux
-- **Zotero 7 and earlier are not supported**
+- **不支持 Zotero 7 及更早版本**
 
-## FAQ
+## 常见问题
 
-- **The columns don't appear.**<br>
-  Right-click the item list header and enable them.
+- **装了插件但看不到列？**<br>
+  在条目列表表头右键，勾选对应列。
 
-- **A journal has no badges.**<br>
-  It may not be in the corresponding catalog. The university column supports Chinese journal names; the CAS table covers English journals only.
+- **某本刊没有标签？**<br>
+  可能不在对应目录中；高校分区支持中文刊名匹配，中科院表只覆盖英文期刊。
 
-- **Why is TGRS a Q2 in the CAS minor category?**<br>
-  CAS major and minor categories use different algorithms. TGRS is Q1 Top in Geosciences (major) but Q2 in Remote Sensing (minor).
+- **TGRS 为什么中科院小类是 2 区？**<br>
+  中科院大类和小类是两套算法；TGRS 大类为地球科学 1 区 Top，遥感小类为 2 区。
 
-- **Why does MDPI's Remote Sensing have no CUG Geography tier?**<br>
-  In the 2023 CUG catalog, it appears only under Surveying and Mapping, Information and Communication Engineering, Geo-information, and Safety Science — not Geography.
+- **MDPI 的 Remote Sensing 为什么没有地大地理分区？**<br>
+  地大 2023 目录中该刊只在测绘、信息与通信工程、地信、安全等学科，没有地理科学。
 
-- **Zotero says the plugin is unsigned.**<br>
-  This is normal for local installation; continue the installation.
+- **提示插件未签名？**<br>
+  这是本地安装的正常提示，选择继续安装即可。
 
-## Privacy
+## 隐私
 
-The plugin runs fully offline and does not collect or transmit any data.
+插件完全离线运行，不收集、不发送任何数据。
 
-## Feedback
+## 反馈
 
-Please use [Issues](../../issues) and include your Zotero version, OS, and a screenshot.
+请通过 [Issues](../../issues) 反馈问题，附上 Zotero 版本、操作系统和截图。
 
-## License
+## 许可证
 
-QBadge is closed-source software. This repository provides only the installer and documentation; no source code is included.
+本插件为闭源软件，仓库仅提供安装包和文档，不包含源代码。
 
-- Free for personal, non-commercial use; sharing the unmodified original installer is allowed.
-- Decompiling, modifying, redistributing modified versions, or commercial use is prohibited.
-- Journal classification data belongs to the original institutions and is provided for personal reference only. It will be removed upon a rights holder's request.
+- 允许个人免费使用，以及分享未修改的原始安装包。
+- 禁止反编译、修改、二次分发修改版或用于商业用途。
+- 分区数据版权归原机构所有，仅供个人科研参考；如权利人提出要求，将移除相关数据。
 
-## Acknowledgements
+## 致谢
 
-- CAS National Science Library journal ranking
-- China University of Geosciences (Wuhan) journal catalog
-- The Zotero plugin community
+- 中科院文献情报中心《期刊分区表》
+- 中国地质大学（武汉）期刊分类目录
+- Zotero 插件社区
