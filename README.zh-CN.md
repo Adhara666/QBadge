@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/English-README-blue" alt="English"></a>
-  <a href="README.zh-CN.md"><img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-README-2ea44f" alt="简体中文"></a>
+  <a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a>
 </p>
 
 <p align="center">
