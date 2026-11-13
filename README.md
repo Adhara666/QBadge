@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Zotero-8%20%7C%209%20%7C%2010%20%7C%2011-CC2936" alt="Zotero 8-11">
+  <img src="https://img.shields.io/badge/Zotero-8%20%7C%209%20%7C%2010-CC2936" alt="Zotero 8-10">
   <img src="https://img.shields.io/badge/version-0.3.5-blue" alt="version 0.3.5">
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey" alt="platform">
 </p>
@@ -96,7 +96,7 @@ To add your school, open an Issue with:
 
 ## Compatibility
 
-- Zotero 8 / 9 / 10 / 11
+- Zotero 8 / 9 / 10 (compatibility cap reserved for 11.*)
 - Windows / macOS / Linux
 - **Zotero 7 and earlier are not supported**
 
