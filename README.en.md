@@ -23,6 +23,7 @@ Show CAS journal quartiles and university journal tiers directly in Zotero's ite
 - **Two independent columns**: `QBadge（中科院2025）` and `QBadge（高校分区）`
 - **CAS partition**: major category / minor categories / TOP, 1–4 quartile colors; minor categories are selectable and reorderable
 - **University partition** (currently CUG only, using CUG as the example): T1–T6 by discipline; T1–T4 use the same colors as CAS, T5/T6 use separate colors
+- **Abbreviations & aliases**: built-in index of 9,201 journal abbreviations; recognizes titles like `Atmos. Meas. Tech.` when ISSN is missing, plus manual abbreviation → full-title mappings
 - **Fully offline**: data is bundled; no network, no upload, no API key
 - **Cross-platform**: Windows / macOS / Linux
 
@@ -54,6 +55,12 @@ Edit → Settings → QBadge:
 - University: currently only China University of Geosciences (Wuhan)
 - Discipline multi-select (defaults: Surveying and Mapping, Geography)
 - Numbered reorder (↑ / ↓ / ×)
+
+### Journal aliases
+
+- For items with no ISSN and an abbreviated title
+- Example: `Atmos. Meas. Tech.` → `Atmospheric Measurement Techniques`
+- Matching order: ISSN → manual alias → full title → built-in abbreviation
 
 ## Colors
 
@@ -134,6 +141,7 @@ Edit → Settings → QBadge:
 - The CAS table stopped updating in 2026; 2025 is the final edition.
 - The CUG catalog is organized by discipline with T1–T6 levels; a journal may belong to multiple disciplines with different levels.
 - The CUG catalog has no ISSN; matching uses ISSN mapping plus English/Chinese journal names.
+- Built-in index of 9,201 journal abbreviations for ISSN-less, abbreviated titles.
 - Unmatched journals are left blank (hover shows "not listed"); conference papers are not displayed.
 
 ## More universities
@@ -159,7 +167,7 @@ To add your school, open an Issue with:
   Right-click the item list header and enable them.
 
 - **A journal has no badges.**<br>
-  It may not be in the corresponding catalog. The university column supports Chinese journal names; the CAS table covers English journals only.
+  It may not be in the corresponding catalog. The university column supports Chinese journal names; the CAS table covers English journals only. If the title is abbreviated and ISSN is missing, QBadge tries the built-in abbreviation index; if that fails, add a manual alias in Settings.
 
 - **Why is TGRS a Q2 in the CAS minor category?**<br>
   CAS major and minor categories use different algorithms. TGRS is Q1 Top in Geosciences (major) but Q2 in Remote Sensing (minor).
