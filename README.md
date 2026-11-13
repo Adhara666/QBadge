@@ -57,25 +57,79 @@
 
 ## 配色
 
-| 分区 | 颜色 | 色块 |
-|:---:|:---:|:---:|
-| TOP | `#8E44AD` | ![TOP](docs/images/swatch-top.png) |
-| 1区 / 地大 T1 | `#C0392B` | ![1区](docs/images/swatch-q1.png) |
-| 2区 / 地大 T2 | `#E67E22` | ![2区](docs/images/swatch-q2.png) |
-| 3区 / 地大 T3 | `#F1C40F` | ![3区](docs/images/swatch-q3.png) |
-| 4区 / 地大 T4 | `#7F8C8D` | ![4区](docs/images/swatch-q4.png) |
-| 地大 T5 | `#2E86C1` | ![T5](docs/images/swatch-t5.png) |
-| 地大 T6 | `#85C1E9` | ![T6](docs/images/swatch-t6.png) |
+<table>
+  <thead>
+    <tr>
+      <th align="center" valign="middle">分区</th>
+      <th align="center" valign="middle">颜色</th>
+      <th align="center" valign="middle">色块</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">TOP</td>
+      <td align="center" valign="middle"><code>#8E44AD</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-top.png" alt="TOP" width="80" height="24"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">1区 / 地大 T1</td>
+      <td align="center" valign="middle"><code>#C0392B</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q1.png" alt="1区" width="80" height="24"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">2区 / 地大 T2</td>
+      <td align="center" valign="middle"><code>#E67E22</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q2.png" alt="2区" width="80" height="24"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">3区 / 地大 T3</td>
+      <td align="center" valign="middle"><code>#F1C40F</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q3.png" alt="3区" width="80" height="24"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">4区 / 地大 T4</td>
+      <td align="center" valign="middle"><code>#7F8C8D</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q4.png" alt="4区" width="80" height="24"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">地大 T5</td>
+      <td align="center" valign="middle"><code>#2E86C1</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-t5.png" alt="T5" width="80" height="24"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">地大 T6</td>
+      <td align="center" valign="middle"><code>#85C1E9</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-t6.png" alt="T6" width="80" height="24"></td>
+    </tr>
+  </tbody>
+</table>
 
 - 中科院 1–4 区与地大 T1–T4 同色；TOP 独立紫色。
 - 地大 T5、T6 使用蓝色系。
 
 ## 数据说明
 
-| 数据 | 版本 | 覆盖 |
-|:---:|:---:|:---:|
-| 中科院期刊分区表 | 2025（官方终版） | 21,772 本期刊 |
-| 中国地质大学（武汉）期刊分类目录 | 2023 | 9,922 本期刊，38 个学科 |
+<table>
+  <thead>
+    <tr>
+      <th align="center" valign="middle">数据</th>
+      <th align="center" valign="middle">版本</th>
+      <th align="center" valign="middle">覆盖</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">中科院期刊分区表</td>
+      <td align="center" valign="middle">2025（官方终版）</td>
+      <td align="center" valign="middle">21,772 本期刊</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">中国地质大学（武汉）期刊分类目录</td>
+      <td align="center" valign="middle">2023</td>
+      <td align="center" valign="middle">9,922 本期刊，38 个学科</td>
+    </tr>
+  </tbody>
+</table>
 
 - 中科院分区表自 2026 年起停止更新，2025 版为最终版。
 - 地大目录按学科划分，级别为 T1–T6；一本刊可属于多个学科，不同学科级别可能不同。

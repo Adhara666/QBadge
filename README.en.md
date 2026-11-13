@@ -57,25 +57,79 @@ Edit → Settings → QBadge:
 
 ## Colors
 
-| Tier | Color | Swatch |
-|:---:|:---:|:---:|
-| TOP | `#8E44AD` | ![TOP](docs/images/swatch-top.png) |
-| CAS Q1 / CUG T1 | `#C0392B` | ![Q1](docs/images/swatch-q1.png) |
-| CAS Q2 / CUG T2 | `#E67E22` | ![Q2](docs/images/swatch-q2.png) |
-| CAS Q3 / CUG T3 | `#F1C40F` | ![Q3](docs/images/swatch-q3.png) |
-| CAS Q4 / CUG T4 | `#7F8C8D` | ![Q4](docs/images/swatch-q4.png) |
-| CUG T5 | `#2E86C1` | ![T5](docs/images/swatch-t5.png) |
-| CUG T6 | `#85C1E9` | ![T6](docs/images/swatch-t6.png) |
+<table>
+  <thead>
+    <tr>
+      <th align="center" valign="middle">Tier</th>
+      <th align="center" valign="middle">Color</th>
+      <th align="center" valign="middle">Swatch</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">TOP</td>
+      <td align="center" valign="middle"><code>#8E44AD</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-top.png" alt="TOP" width="80" height="24"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">CAS Q1 / CUG T1</td>
+      <td align="center" valign="middle"><code>#C0392B</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q1.png" alt="Q1" width="80" height="24"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">CAS Q2 / CUG T2</td>
+      <td align="center" valign="middle"><code>#E67E22</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q2.png" alt="Q2" width="80" height="24"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">CAS Q3 / CUG T3</td>
+      <td align="center" valign="middle"><code>#F1C40F</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q3.png" alt="Q3" width="80" height="24"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">CAS Q4 / CUG T4</td>
+      <td align="center" valign="middle"><code>#7F8C8D</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-q4.png" alt="Q4" width="80" height="24"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">CUG T5</td>
+      <td align="center" valign="middle"><code>#2E86C1</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-t5.png" alt="T5" width="80" height="24"></td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">CUG T6</td>
+      <td align="center" valign="middle"><code>#85C1E9</code></td>
+      <td align="center" valign="middle"><img src="docs/images/swatch-t6.png" alt="T6" width="80" height="24"></td>
+    </tr>
+  </tbody>
+</table>
 
 - CAS Q1–Q4 and CUG T1–T4 share the same palette; TOP is purple.
 - CUG T5 and T6 use blue.
 
 ## Data
 
-| Data | Version | Coverage |
-|:---:|:---:|:---:|
-| CAS Journal Ranking (中科院期刊分区表) | 2025 (final official edition) | 21,772 journals |
-| CUG journal catalog | 2023 | 9,922 journals, 38 disciplines |
+<table>
+  <thead>
+    <tr>
+      <th align="center" valign="middle">Data</th>
+      <th align="center" valign="middle">Version</th>
+      <th align="center" valign="middle">Coverage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">CAS Journal Ranking (中科院期刊分区表)</td>
+      <td align="center" valign="middle">2025 (final official edition)</td>
+      <td align="center" valign="middle">21,772 journals</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">CUG journal catalog</td>
+      <td align="center" valign="middle">2023</td>
+      <td align="center" valign="middle">9,922 journals, 38 disciplines</td>
+    </tr>
+  </tbody>
+</table>
 
 - The CAS table stopped updating in 2026; 2025 is the final edition.
 - The CUG catalog is organized by discipline with T1–T6 levels; a journal may belong to multiple disciplines with different levels.
