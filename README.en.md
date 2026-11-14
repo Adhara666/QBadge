@@ -192,7 +192,7 @@ QBadge is closed-source software. This repository provides only the installer an
 
 - Free for personal, non-commercial use; sharing the unmodified original installer is allowed.
 - Decompiling, modifying, redistributing modified versions, or commercial use is prohibited.
-- Journal classification data belongs to the original institutions and is provided for personal reference only. It will be removed upon a rights holder's request.
+- The journal classification data was personally collected; copyright belongs to the original institutions and it is provided for personal research reference only. It will be removed upon a rights holder's request.
 
 ## Acknowledgements
 
